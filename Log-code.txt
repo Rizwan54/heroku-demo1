@@ -1,0 +1,7 @@
+First install Heroku Git
+
+then:-
+
+heroku login
+
+heroku logs --app appname
